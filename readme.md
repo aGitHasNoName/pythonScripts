@@ -1,1 +1,1 @@
-# Materials coming soon!
+# Materials available. Slides will be added this afternoon.
