@@ -1,0 +1,20 @@
+387 Bridge,30,100
+8927 Henry,40,80
+9275 Manhattan,32,160
+735 Monroe,50,100
+1554 Woodbine,35,150
+276 Clarkson,90,80
+926 Hoeffstadt,30,120
+93772 Industrial Drive,40,160
+3765 Devereux,160,330
+2667 Stokes,40,120
+264 Main,80,200
+4725 Flatbush,73,284
+286 Akron,30,110
+362 Idleway,50,150
+837 Samson,800,300
+38776 Route J,330,650
+9584 Hoover,40,220
+94880 Marshall,650,1300
+764 Hiawatha,550,1800
+500 Highway B,850,2800

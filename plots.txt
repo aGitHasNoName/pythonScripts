@@ -1,0 +1,20 @@
+1614 Ridge,30,100
+187 Plum,40,80
+7632 Staten Island,32,160
+1833 Madison,50,100
+990 Greenwood,35,150
+2225 Brandon,90,80
+1001 Clovey,30,120
+4220 Thompson,40,160
+3840 Renee,160,330
+77821 Benson,40,120
+8372 Capitol,80,200
+3827 Greenbriar,73,284
+8489 Milwaukee,30,110
+757 Backladder,50,150
+8379 Johanssen,800,300
+39877 Route B,330,650
+4720 Garfield,40,220
+84002 Davidson County,650,1300
+81100 Michetek,550,1800
+800 County Road A,850,2800
